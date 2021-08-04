@@ -1,0 +1,9 @@
+// run server by following command
+
+node app.js
+
+
+
+// for server connection 
+
+telnet <ip address >  3000
